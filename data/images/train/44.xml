@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>44.jpg</filename>
+	<path>/home/kaustav1996/git/object_detection_demo/data/images/train/44.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>301</xmin>
+			<ymin>213</ymin>
+			<xmax>354</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

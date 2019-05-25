@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>24.jpg</filename>
+	<path>/home/kaustav1996/git/object_detection_demo/data/images/train/24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wipro</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>461</xmin>
+			<ymin>108</ymin>
+			<xmax>623</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

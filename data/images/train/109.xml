@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>109.jpg</filename>
+	<path>/home/kaustav1996/git/object_detection_demo/data/images/train/109.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tcs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>62</ymin>
+			<xmax>307</xmax>
+			<ymax>103</ymax>
+		</bndbox>
+	</object>
+</annotation>
